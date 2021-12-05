@@ -17,3 +17,7 @@ tasks {
         gradleVersion = "7.3"
     }
 }
+
+dependencies {
+    implementation("com.github.h0tk3y.betterParse:better-parse:0.4.3")
+}
